@@ -1,0 +1,31 @@
+@font-face {
+    src: url(../fonts/Montserrat-Medium.ttf);
+    font-family: "MS";
+    font-weight: 500;
+}
+
+@font-face {
+    src: url(../fonts/Montserrat-Thin.ttf);
+    font-family: "MS";
+    font-weight: 100;
+}
+
+@font-face {
+    src: url(../fonts/MyriadProRegular.ttf);
+    font-family: "MP";
+}
+
+@font-face {
+    src: url(../fonts/NunitoSans-Regular.ttf);
+    font-family: "NS";
+}
+
+@font-face {
+    src: url(../fonts/Pe-icon-7-stroke.ttf);
+    font-family: "PI";
+}
+
+@font-face {
+    src: url(../fonts/WorkSans-Regular.ttf);
+    font-family: "WS";
+}
